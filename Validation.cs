@@ -8,7 +8,7 @@ namespace GuessingGameDemo
 {
     class Validation
     {
-        public  void Prompt2Continue()
+        public void Prompt2Continue()
         {
             Console.WriteLine("=====================================");
             Console.WriteLine("Press any key to continue...");

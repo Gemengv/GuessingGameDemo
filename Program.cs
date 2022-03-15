@@ -1,14 +1,14 @@
-﻿
-
-using System;
+﻿using System;
 
 namespace GuessingGameDemo
 {
-    class MainClass
+    class Program
     {
-        public void Main()
+         static void Main()
         {
+            StartUp startUp = new StartUp();
 
+            startUp.Run();
         }
 
     }
