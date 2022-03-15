@@ -6,7 +6,7 @@ namespace GuessingGameDemo
 {
     class MainClass
     {
-        public static void Main()
+        public void Main()
         {
 
         }
